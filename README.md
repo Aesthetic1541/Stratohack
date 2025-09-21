@@ -30,5 +30,5 @@ Predict flight delays using airline and flight data. This project solves the reg
 - Final submission and deployment pipeline.
 
 ## Usage
-To run training and evaluation:
+To run training and evaluation
 
